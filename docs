@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        
+        body {
+            background-color:rgb(255, 0, 255);
+            color:rgb(173, 0, 0);
+            font-family:"helvetica", sans-serif;
+        }
+        
+        h1 {
+            color:rgb(43, 255, 0);
+            font-family:"arial", sans-serif;
+        }
+        
+        h3{
+            color:rgb(0, 85, 255);
+            font-family:"Times New Roman", serif;
+        }
+        
+        a {
+            color:rgb(173, 0, 0);
+            
+        }
+    </style>
+    <body>
+        
+        <h1>Candace's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#9/11">9/11/01</a></li>
+        </ul>
+        
+        
+        <h3 id="9/11">9/11/01</h3>
+        
+        <p>I'm currently sitting in the airport waiting to leave. I'm heading to LA to see some family on flight 11. Wish me safe travels!</p>
+
+    </body>
+</html>
